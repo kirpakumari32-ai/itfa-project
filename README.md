@@ -80,7 +80,7 @@ streamlit run yourfile.py
    
 
 Author
-Kashaf Mehmood - CT-104
-Waniya Khan - CT-117
-Kirpa kumari - CT-102
-Humna shahid - CT-105
+Kashaf Mehmood - CT-104,
+Waniya Khan - CT-117,
+Kirpa kumari - CT-102,
+Humna shahid - CT-105,
